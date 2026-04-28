@@ -3,9 +3,9 @@
   "phone": "9627694657",
   "address": "Babugarh Chhawni, Hapur, 245101, Uttar Pradesh, India",
   "homeCarousel": [
-    "../static/picture/carousel/1775642336432-scaled1000020965.jpg",
-    "../static/picture/carousel/1775642513904-scaled1000021003.jpg",
-    "../static/picture/carousel/1775642593242-scaled1000021013.jpg",
-    "../static/picture/carousel/1775642633042-scaled1000021021.jpg"
+    "./static/picture/carousel/1775642336432-scaled1000020965.jpg",
+    "./static/picture/carousel/1775642513904-scaled1000021003.jpg",
+    "./static/picture/carousel/1775642593242-scaled1000021013.jpg",
+    "./static/picture/carousel/1775642633042-scaled1000021021.jpg"
   ]
 }
