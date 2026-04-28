@@ -376,7 +376,7 @@
             // 在这里处理返回的JSON数据
             let list = '';
             $.each(data, function (index, item) {
-                for (let i = 0; i < productsList.length; i++) {
+                for (let i = 0; i < data.length; i++) {
                     list += `<div class="relative">
                             <div id="collection-0" class="mt-5 md:mt-5 px-2 md:px-4 xl:max-w-[1200px] 2xl:max-w-[1440px] mx-auto">
                                 <div class="w-full h-1 bg-gray-100 my-3 lg:bg-white"></div>
